@@ -1,5 +1,4 @@
 # bongomin-ldap-activedir-nodejs
-
 ## HOW TO AUTHENTICATE USING LDAP & ACTIVE DIRECTORY IN NODE JS
 In this node app , we learn how to create ,intergrate and authorize user logging through LDAP or an Active Directory .
 
@@ -22,7 +21,11 @@ npm install
 ```
 
 ## run the app
+<<<<<<< HEAD
 * node Server.js
+=======
+# node Server.js
+>>>>>>> develop
 
 
 
