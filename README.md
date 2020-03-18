@@ -22,7 +22,6 @@ npm install
 
 ## run the app
 # node Server.js
->>>>>>> develop
 
 
 
