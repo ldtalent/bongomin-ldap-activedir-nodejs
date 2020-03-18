@@ -1,0 +1,24 @@
+{
+  "name": "bongomin-ldap-activedir-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learningdollars/bongomin-ldap-activedir-nodejs.git"
+  },
+  "author": "bongomindaniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learningdollars/bongomin-ldap-activedir-nodejs/issues"
+  },
+  "homepage": "https://github.com/learningdollars/bongomin-ldap-activedir-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cfenv": "^1.2.2"
+  }
+}
