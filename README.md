@@ -21,9 +21,6 @@ npm install
 ```
 
 ## run the app
-<<<<<<< HEAD
-* node Server.js
-=======
 # node Server.js
 >>>>>>> develop
 
